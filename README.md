@@ -18,5 +18,6 @@ In a conclusion, I can say that virus is spreading day by day and older people a
 
 Reference: COVID-19 World Vaccination Progress Data [online], Available from: https://www.kaggle.com/fedesoriano/coronavirus-covid19-vaccinations-data.
 
+![Covid-19_PowerBI](https://user-images.githubusercontent.com/81926522/168450005-51826202-1d91-4b26-ae0a-e7576e22982a.png)
 
 
